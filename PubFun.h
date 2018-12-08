@@ -11,6 +11,3 @@
 void Name_in_Arabic(void) ;
 
 #endif /* PUBFUN_H_ */
-
-
-//hello world
